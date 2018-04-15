@@ -5,12 +5,14 @@
  -R
  -f
 */
+tky@DESKTOP-BUM395L MINGW64 
 
 /var/tmp/.
+
 id
 ls -l
 //
-chgrp genesis test.text
+chgrp tky test.text
 //
 id
 sudo -s
