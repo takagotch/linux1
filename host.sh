@@ -1,4 +1,5 @@
 //host,dig
+//nslookup
 //
 
 /**/
