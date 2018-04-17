@@ -2,7 +2,10 @@
 //export 
 //unsetenv
 
-/**/
+/*
+setenv [variable [value] ]
+
+*/
 
 setenv
 
