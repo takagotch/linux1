@@ -3,7 +3,9 @@
 //setenv
 //printenv
 
-/**/
+/*
+-n
+*/
 
 printenv | grep TEST
 TEST=testvalue
