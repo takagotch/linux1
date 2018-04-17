@@ -1,1 +1,10 @@
 //hostname
+//
+
+/**/
+
+hostname
+hostname -s
+
+---
+
