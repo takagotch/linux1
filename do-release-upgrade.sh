@@ -2,4 +2,7 @@
 //apt-get
 
 
+do-release-upgrade
+
+---
 
