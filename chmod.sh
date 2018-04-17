@@ -9,10 +9,10 @@
 */
 
 /*
-777 rwxrwxrwx 
-755 rwxr-xr-x
-666 rw-rw-rw-
-644 rw-r--r--
+777 -rwxrwxrwx 
+755 -rwxr-xr-x
+666 -rw-rw-rw-
+644 -rw-r--r--
 
 */
 
