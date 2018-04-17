@@ -1,11 +1,13 @@
 //touch
 
 /*
-  -d time
+  -d time   YYYY-MM-DD hh:mm:ss
   -t time
 */
 
 tky@DESKTOP-BUM395L MINGW64 
+
+
 
 ls -l test.text
 date
@@ -18,10 +20,8 @@ ls -l hoge
 
 
 
+
+
+
 ----
-
-
-
-
-
 
