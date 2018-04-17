@@ -1,5 +1,7 @@
 //cd,chdir
-//
+//absolute path
+//relative path
+
 
 /*
 .
@@ -11,6 +13,10 @@
 cd /var/spool
 
 cd ..
+
+cd
+
+cd ~tky
 
 ---
 
