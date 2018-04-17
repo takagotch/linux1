@@ -1,6 +1,9 @@
 //tr
 
-/**/
+/*
+-d
+-s
+*/
 
 grep root /etc/group
 grep root /etc/group | tr ':' ','
