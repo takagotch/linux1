@@ -6,13 +6,26 @@ strings -2 /boot/grub/kernel.img | head
 
 
 //
+Ctrl S
+Ctrl !
 
+tset reset
 
+kill ps
 
+Ctrl C
+Ctrl C kill
 
+jobs
+fg %2
 
+//
 
+//
 
+//
+
+//
 
 //
 
