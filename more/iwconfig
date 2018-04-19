@@ -1,0 +1,11 @@
+//iwconfig
+
+//
+
+iwconfig wlan0 essid "tky-us-a" key "s:password"
+iwconfig
+
+iwlist wlan0 scan
+
+---
+
