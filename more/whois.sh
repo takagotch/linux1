@@ -1,1 +1,8 @@
 //whois
+
+//
+
+whois ex.jp
+
+---
+
