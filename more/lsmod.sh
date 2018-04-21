@@ -1,1 +1,10 @@
 //lsmod
+//rmmod
+//modprobe
+
+//
+
+lsmod
+
+---
+
