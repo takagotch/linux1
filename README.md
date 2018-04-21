@@ -4,9 +4,11 @@
 ### login
 ### logout,exit
 ### last
+---
 ### shutdown,halt,poweroff
 ### reboot
 ### init
+---
 ### adduser,useradd
 ### usermod
 ### deluser,rmuser,userdel
@@ -20,6 +22,7 @@
 ### who,w
 ### su
 ### sudo
+---
 ### ls
 ### cp
 ### mv
@@ -35,6 +38,7 @@
 ### chgrp
 ### file
 ### touch
+---
 ### cat
 ### more,less,pg
 ### head
@@ -47,9 +51,11 @@
 ### tr
 ### wc
 ### regexp
+---
 ### find
 ### whereis
 ### which
+---
 ### mail
 ### telnet
 ### ssh
@@ -61,16 +67,19 @@
 ### w3m
 ### arp
 ### host,dig
+---
 ### bash
 ### bsh,dash
 ### tcsh
 ### histroy
 ### alias,unalias
+---
 ### jobs
 ### kill
 ### ps
 ### nice
 ### top
+---
 ### date
 ### ntpdate
 ### id
@@ -85,8 +94,10 @@
 ### unset,unsetenv
 ### update-rc.d
 ### chkconfig
+---
 ### nkf
 ### iconv
+---
 ### compress
 ### gzip
 ### bzip2
@@ -95,6 +106,7 @@
 ### dump
 ### tar
 ### restore
+---
 ### rpm
 ### apt-get
 ### pkg_add,pkg_delete,pkg_info
@@ -103,22 +115,29 @@
 ### yum
 ### do-release-upgrade
 ### freebsd-update
+---
 ### df
 ### du
 ### mount
 ### unmount
 ### cdrecord
 ### mkisofs
+---
 ### lp
 ### lpr
 ### lprm,cancel
 ### lpc
 ### lpq
 ### pr
-### man makewhatis,mandb
+---
+### man
+### makewhatis,mandb
+---
 ### at,atq,atrm
 ### crontab
 ### sleep
+---
+### shell
 ### echo,read
 ### [,test
 ### if
@@ -128,6 +147,7 @@
 ### awk
 ### perl
 ### ruby
+---
 ### vi
 ### file
 ### dir
