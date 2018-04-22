@@ -19,9 +19,9 @@ Ctrl C kill
 jobs
 fg %2
 
-//
+//fsck
 
-//
+// /etc/init.d, /etc/rc.d
 
 //
 
