@@ -46,7 +46,7 @@
 ### pushd,popd,dirs
 ### mktemp
 ### convmv
-##
+---
 ### rpm2cpio
 ### yum
 ### dpkg
@@ -54,7 +54,7 @@
 ### aptitude
 ### apt-get
 ### alien
-##
+---
 ### useradd
 ### userdel
 ### userdel
@@ -79,7 +79,7 @@
 ### pwconv,pwunconv,grpconv,grpunconv
 ### htpasswd
 ### htdigest
-##
+---
 ### cat
 ### rev
 ### grep
@@ -111,7 +111,7 @@
 ### fold
 ### paste
 ### join
-## 
+---
 ### ps
 ### pstree
 ### pgrep,pkill
@@ -132,7 +132,7 @@
 ### pwdx
 ### pv
 ### stdbuf
-#
+---
 ### exit,logout
 ### df
 ### du
@@ -183,7 +183,7 @@
 ### update-alternatives
 ### busybox
 ### echo
-##
+---
 ### write,wall
 ### tee
 ### screen
@@ -205,7 +205,7 @@
 ### svn
 ### svnadmin
 ### trac-admin
-##
+---
 ### lspci
 ### lsusb
 ### lsscsi
@@ -230,7 +230,7 @@
 ### lscpu
 ### lsblk
 ### partx
-##
+---
 ### ip
 ### ifconfig
 ### iwconfig
@@ -271,23 +271,23 @@
 ### ntpq
 ### brctl
 ### nc
-##
+---
 ### gpg,gpg2
 ### openssl
 ### pwgen
-##
+---
 ### psql
 ### pg_dump
 ### mysql
 ### mysqldump
 ### sqlite3
-##
+---
 ### xl
 ### virt-install
 ### virsh
 ### VBoxManage
 ### qemu-img
-##
+---
 ### lsmod
 ### lnsmod
 ### rmmod
@@ -298,7 +298,7 @@
 ### dracut
 ### grub,grub-install
 ### dmesg
-##
+---
 ### lpr
 ### cancel
 ### lpadmin
