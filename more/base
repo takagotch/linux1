@@ -60,15 +60,24 @@ SYNOPSIS
 /bin/echo "str" | rev
 /bin/echo "str" | rev | tr -d [:blank:]
 
+
+
+
+
+
+
+
 ps ax > /tmp/ps.txt
 uptime >> /tmp/uptime.txt
 tr -d \\r < dos.txt > unix.txt
 find /tmp/ > /dev/null
 find /tmp/ 2> /dev/null
-
-
 find /tmp > /tmp/find.txt 2>&1
 
-
-
+/*
+>
+>>
+<
+find
+*/
 
