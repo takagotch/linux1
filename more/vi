@@ -25,3 +25,74 @@ N
 :e filename
 ---
 
+
+###
+
+a
+A
+i
+I
+o
+O
+---
+Esc
+---
+:q
+:q!
+:wq
+ZZ
+---
+:w
+:e!
+:n
+:n filename
+:r filename
+:r! cmd
+---
+l
+h
+k
+j
+---
+w
+b
+e
+W
+B
+---
+0
+$
+H
+L
+M
+Ctrl y
+Ctrl e
+Ctrl u
+Ctrl d
+Ctrl b
+Ctrl f
+1G
+G
+---
+x
+X
+dw
+d$
+d0
+dd
+---
+yy
+yw
+y$
+y0
+---
+p
+P
+---
+
+10!
+3b
+9dd
+5H
+---
+
