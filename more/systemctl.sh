@@ -4,6 +4,7 @@
 
 
 systemctl start httpd.service
+systemctl start doceker.service
 systemctl status httpd.service
 
 systemctl stop httpd.service
