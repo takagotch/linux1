@@ -28,7 +28,17 @@ ls -l
 cat progre.text
 
 
+# create HardLink; copy;
+ls
+ln target.txt target-hl.txt
+cp target.txt target-cp.txt
+ls -li
 
+# create SymbolicLink WindowsShortCut;
+ln -s archive.tar.gz archive.tgz
+ls -l archive.tgz
+
+ln -i archive.tar.gz archive.tgz
 
 
 
