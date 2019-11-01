@@ -2,6 +2,9 @@
 
 /**/
 
+# ps aux | grep puma
+ps aux
+
 
 
 w
