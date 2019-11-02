@@ -19,7 +19,9 @@ ps ax | grep sshd
 tail -5 /var/log/auth.log
 
 
-
+//
+// ps aux | grep puma
+// kill -9 3117
 
 
 ---
