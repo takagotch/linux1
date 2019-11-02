@@ -13,5 +13,8 @@ grep ^/bin /etc/shels
 fgrep ^/bin /etc/shells
 
 
+// grep
+ps aux | grep puma
+
 ---
 
